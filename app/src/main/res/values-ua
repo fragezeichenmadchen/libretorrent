@@ -11,12 +11,12 @@
     <string name="replace">Замінити</string>
     <string name="add">Додати</string>
     <string name="delete">Усунути</string>
-    <string name="deleting">Deleting</string>
-    <string name="select_all">Select all</string>
-    <string name="apply">Apply</string>
-    <string name="save">Save</string>
-    <string name="install">Install</string>
-    <string name="search">Search</string>
+    <string name="deleting">Усунення</string>
+    <string name="select_all">Обрати все</string>
+    <string name="apply">Застосувати</string>
+    <string name="save">Записати</string>
+    <string name="install">Установити</string>
+    <string name="search">Шукати</string>
     <!-- 1 d. 1 h. 1 m -->
     <string name="elapsed_time_format_d_h_mm">%1$d d. %2$d h. %3$d m</string>
     <!-- 1 h. 1 m. 1 s -->
@@ -25,22 +25,22 @@
     <string name="elapsed_time_format_mm_ss">%1$d m. %2$d s</string>
     <!-- 1 s -->
     <string name="elapsed_time_format_ss">%1$d s</string>
-    <string name="sort_by_ascending">By ascending</string>
-    <string name="sort_by_descending">By descending</string>
-    <string name="sorting">Sorting</string>
+    <string name="sort_by_ascending">за висхідними</string>
+    <string name="sort_by_descending">за спадними</string>
+    <string name="sorting">вишикувати</string>
     <string-array name="sort_direction_values" translatable="false">
         <item>asc</item>
         <item>desc</item>
     </string-array>
 
     <!-- Main window -->
-    <string name="main_empty_torrent_list">No torrents</string>
-    <string name="spinner_all_torrents">All</string>
-    <string name="spinner_downloading_torrents">Downloading</string>
-    <string name="spinner_downloaded_torrents">Downloaded</string>
-    <string name="delete_torrent_with_downloaded_files">Delete with downloaded files</string>
-    <string name="delete_selected_torrent">Delete the selected torrent? This operation cannot be undone</string>
-    <string name="delete_selected_torrents">Delete the selected torrents? This operation cannot be undone</string>
+    <string name="main_empty_torrent_list">Брак торентів</string>
+    <string name="spinner_all_torrents">Усі</string>
+    <string name="spinner_downloading_torrents">Стягувані</string>
+    <string name="spinner_downloaded_torrents">Стягнені</string>
+    <string name="delete_torrent_with_downloaded_files">Усунути зі стягненими стосами</string>
+    <string name="delete_selected_torrent">Усунути обраний торент? Ця дія не буде повернена до переднього стану</string>
+    <string name="delete_selected_torrents">Усунути обрані торенти? Ця дія не буде повернена до попереднього стану</string>
     <string name="force_recheck_torrent">Force recheck</string>
     <string name="force_announce_torrent">Force announce</string>
     <string name="add_link">Add link</string>
