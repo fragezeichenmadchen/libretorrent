@@ -41,23 +41,23 @@
     <string name="delete_torrent_with_downloaded_files">Усунути зі стягненими стосами</string>
     <string name="delete_selected_torrent">Усунути обраний торент? Ця дія не буде повернена до переднього стану</string>
     <string name="delete_selected_torrents">Усунути обрані торенти? Ця дія не буде повернена до попереднього стану</string>
-    <string name="force_recheck_torrent">Force recheck</string>
-    <string name="force_announce_torrent">Force announce</string>
-    <string name="add_link">Add link</string>
-    <string name="dialog_add_link_title">Enter the magnet or HTTP/HTTPS link</string>
-    <string name="torrent_list_empty">No torrents</string>
-    <string name="select_or_add_torrent">Select or add a torrent</string>
-    <string name="error_empty_link">Please enter link</string>
-    <string name="error_invalid_link">Invalid link</string>
-    <string name="error_open_torrent_file">Unable to open the torrent file</string>
-    <string name="open_file">Open file</string>
-    <string name="settings">Settings</string>
+    <string name="force_recheck_torrent">Вимусити перевірку</string>
+    <string name="force_announce_torrent">Вимусити оголошення</string>
+    <string name="add_link">Додати ланку</string>
+    <string name="dialog_add_link_title">Упишіть магнет або HTTP/HTTPS ланку</string>
+    <string name="torrent_list_empty">Брак торентів</string>
+    <string name="select_or_add_torrent">Оберіть або додайте торент</string>
+    <string name="error_empty_link">Просимо ввести ланку</string>
+    <string name="error_invalid_link">Хибна ланка</string>
+    <string name="error_open_torrent_file">Нема змоги відчинити стіс торенту</string>
+    <string name="open_file">Відчинити стіс</string>
+    <string name="settings">Налаштування</string>
     <string name="ip_filter_add_error">Failed to add IP displayFilter. Maybe file is corrupted or has an incorrect format</string>
     <string name="proxy_settings_applied">Proxy server settings applied successfully</string>
     <string name="proxy_settings_apply_after_reboot">Proxy server settings will be applied after restarting the app</string>
     <string name="theme_settings_apply_after_reboot">Theme settings will be applied after restarting the app</string>
     <string name="settings_apply_after_reboot">Settings will be applied after restarting the app</string>
-    <string name="about">About</string>
+    <string name="about">Про застосунок</string>
     <string-array name="sort_torrent_by">
         <item>Without sorting</item>
         <item>Name</item>
@@ -109,10 +109,10 @@
     <string name="download_upload_speed_template" formatted="false">\u2193 %1$s/s | \u2191 %2$s/s</string>
     <string name="torrent_status_downloading">Downloading</string>
     <string name="torrent_status_seeding">Seeding</string>
-    <string name="torrent_status_paused">Pause</string>
-    <string name="torrent_status_stopped">Stopped</string>
-    <string name="torrent_status_checking">Checking</string>
-    <string name="torrent_status_finished">Finished</string>
+    <string name="torrent_status_paused">Затримати</string>
+    <string name="torrent_status_stopped">Зупинено</string>
+    <string name="torrent_status_checking">Перевір</string>
+    <string name="torrent_status_finished">Закінчене</string>
 
     <!-- Permission dialog -->
     <string name="perm_denied_title">Permission denied</string>
@@ -367,7 +367,7 @@
     <string name="pref_proxy_password_title">Password</string>
 
     <!-- About dialog -->
-    <string name="about_title">About LibreTorrent</string>
+    <string name="about_title">Про застосунок</string>
     <string name="about_website" translatable="false">https://github.com/proninyaroslav/libretorrent</string>
     <string name="about_description">LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent (Java wrapper frostwire-jlibtorrent https://github.com/frostwire/frostwire-jlibtorrent ) lib.\n\nLibreTorrent is free software, released under the terms of the GNU General Public License v3 (GPLv3)\nhttp://www.gnu.org/copyleft/gpl.html</string>
     <string name="about_changelog">Changelog</string>
